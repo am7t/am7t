@@ -32,9 +32,6 @@
 
 </div>
 
----
-⭐️ From [Amit Mainali](https://github.com/am7t)
-
 <!-- Profile views counter -->
 <div align="center">
   <img src="https://profile-counter.glitch.me/am7t/count.svg" alt="Visitor Count" />
