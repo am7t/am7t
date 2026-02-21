@@ -1,6 +1,6 @@
-# Hi, I'm Amit Mainali
+Hi, I'm Amit Mainali.
 
-## I'm experienced in Application Development & Data Analysis
+I'm experienced in Application Development & Data Analysis.
 
 ⚙️ **Backend**
 
