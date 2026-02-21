@@ -2,6 +2,8 @@ Hi, I'm **Amit Mainali.**
 
 I'm experienced in **Application Development** & **Data Analytics**.
 
+---
+
 ⚙️ **Backend**
 
 <img src="https://img.shields.io/badge/Spring-4169e1?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4169e1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" /> 
@@ -15,6 +17,8 @@ I'm experienced in **Application Development** & **Data Analytics**.
 <img src="https://img.shields.io/badge/Pandas-00CED1?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-00CED1?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit-Learn-00CED1?style=for-the-badge&logo=scikit-learn&logoColor=white" /> 
 
 <div align="left">
+
+---
 
 **Email:** [amitmainali4@gmail.com](mailto:amitmainali4@gmail.com) 
 **LinkedIn:** [in/amitmainali](https://www.linkedin.com/in/amitmainali)
