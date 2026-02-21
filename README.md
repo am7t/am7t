@@ -1,8 +1,6 @@
 # Hi, I'm Amit Mainali
 
-****
-
-## 💻 Tech Stack
+## Tech Stack
 
 ### ⚙️ Backend
 
@@ -16,12 +14,9 @@
 
 <img src="https://img.shields.io/badge/Pandas-00CED1?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-00CED1?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit-Learn-00CED1?style=for-the-badge&logo=scikit-learn&logoColor=white" /> 
 
-</div>
-
-## 📫 How to reach me
-
 <div align="left">
 
 📧 **Email:** [amitmainali4@gmail.com](mailto:amitmainali4@gmail.com)
+📌 **LinkedIn:** [in/amitmainali](https://www.linkedin.com/in/amitmainali)
 
 </div>
