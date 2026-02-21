@@ -16,7 +16,7 @@
 
 <div align="left">
 
-📧 **Email:** [amitmainali4@gmail.com](mailto:amitmainali4@gmail.com)
-📌 **LinkedIn:** [in/amitmainali](https://www.linkedin.com/in/amitmainali)
+**Email:** [amitmainali4@gmail.com](mailto:amitmainali4@gmail.com) 
+**LinkedIn:** [in/amitmainali](https://www.linkedin.com/in/amitmainali)
 
 </div>
