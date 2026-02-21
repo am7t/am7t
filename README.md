@@ -1,6 +1,6 @@
 # Hi, I'm Amit Mainali
 
-## Tech Stack
+## I'm experienced in Application Development & Data Analysis
 
 ### ⚙️ Backend
 
