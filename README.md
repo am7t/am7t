@@ -1,4 +1,4 @@
-# Hi 👋, I'm Amit Mainali
+# Hi, I'm Amit Mainali
 
 ****
 
